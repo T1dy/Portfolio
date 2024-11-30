@@ -1,0 +1,22 @@
+body{
+    background-color: #282828;
+    font-family: font;
+    font-size: 32px;
+}
+
+main {
+    margin-top: 164px;
+    margin-left: 252px;
+    color: white;
+}
+
+span {
+    background-color: #F1C100;
+    border-radius: 10px;
+    padding-left: 6px;
+}
+
+@font-face {
+    src: url("../fonts/Tiny5-Regular.ttf");
+    font-family: font;
+}
